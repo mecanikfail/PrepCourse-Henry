@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repo de prueba del modulo 2 de Henry
+Proyecto de prueba de como clonar un repo a mi pc local
+
